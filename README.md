@@ -1,4 +1,5 @@
-Text Analyzer Project (Python)
+Text Analyzer Project 
+
 📌 Description
 
 The Text Analyzer is a Python-based mini project that analyzes user input text. It performs character-level and word-level analysis including counting vowels, consonants, uppercase and lowercase letters, and word frequency. It also displays the top 3 most frequent words using dictionary operations.

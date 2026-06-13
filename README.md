@@ -57,8 +57,11 @@ String manipulation
 Conditional statements
 
 📁 Project Structure
+
 Text-Analyzer/
+
 │── text_analyzer.py
+
 │── README.md
 
 🎯 Future Improvements
